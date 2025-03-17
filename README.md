@@ -16,7 +16,7 @@
 
 ### шаги для установки
 1. Клонировать репозиторий:
-   git clone https://github.com/uahmatova/StickerSmash_with_map2.0.git
+   git clone https://github.com/uahmatova/StickerSmash_with_map_2.0.git
 2. Установить зависимости с помощью команды npm install
 3. Перейти в папку репозитория
 4. Запустить npx expo start
